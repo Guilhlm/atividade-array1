@@ -16,9 +16,9 @@ namespace array_1
 
             float sominha = 0;
 
-            Array.ForEach(idade, i => sominha += i / 6);
+            Array.ForEach(idade, i => sominha += i / 6); //foreach executa tudo dentro da array
             
-            for (int i = 0; i < nome.Length && i < idade.Length; i++)
+            for (int i = 0; i < nome.Length && i < idade.Length; i++) // variavel.LENGTH soma tudo da array
             {
                 Console.WriteLine(nome[i]);
                 Console.WriteLine(idade[i]);
