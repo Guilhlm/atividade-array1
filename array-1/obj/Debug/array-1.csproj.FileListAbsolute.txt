@@ -1,0 +1,7 @@
+C:\Users\guilherme.lmaia\source\repos\atividades\atividade de array\array-1\array-1\bin\Debug\array-1.exe.config
+C:\Users\guilherme.lmaia\source\repos\atividades\atividade de array\array-1\array-1\bin\Debug\array-1.exe
+C:\Users\guilherme.lmaia\source\repos\atividades\atividade de array\array-1\array-1\bin\Debug\array-1.pdb
+C:\Users\guilherme.lmaia\source\repos\atividades\atividade de array\array-1\array-1\obj\Debug\array-1.csproj.AssemblyReference.cache
+C:\Users\guilherme.lmaia\source\repos\atividades\atividade de array\array-1\array-1\obj\Debug\array-1.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.lmaia\source\repos\atividades\atividade de array\array-1\array-1\obj\Debug\array-1.exe
+C:\Users\guilherme.lmaia\source\repos\atividades\atividade de array\array-1\array-1\obj\Debug\array-1.pdb
